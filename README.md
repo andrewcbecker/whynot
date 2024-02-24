@@ -15,7 +15,7 @@ Prepare to have your world adorably invaded by these mischievous trash pandas! "
 **Prerequisites**
 
 ```bash
-git clone Random_Racoon](https://github.com/andrewcbecker/whynot.git
+git clone https://github.com/andrewcbecker/whynot.git
 ```
 Go to Random_Racoon folder.
 
