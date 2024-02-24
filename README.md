@@ -14,6 +14,11 @@ Prepare to have your world adorably invaded by these mischievous trash pandas! "
 
 **Prerequisites**
 
+```bash
+git clone Random_Racoon](https://github.com/andrewcbecker/whynot.git
+```
+Go to Random_Racoon folder.
+
 * **A Sprinkle of Python:** This script is built with Python, so make sure you have it installed.
 * **API Keys:** You'll need API keys for Google Gemini Pro and Dall-E 3. Store these securely in a `.env` file.
 * **Required Libraries:** Before the fun begins, install these libraries:
